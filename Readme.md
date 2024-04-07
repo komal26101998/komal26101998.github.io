@@ -22,8 +22,9 @@
     <img src="https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
   </a> -->
 </p>
-  
-## 🥇 Certifications
+
+<!--
+## 🥇 Certifications -->
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
   <img src="https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
@@ -33,8 +34,8 @@
     <img src="https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
      <img src="https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
 </p>
--->
-<p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
+
+<p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p> -->
 
 ## 🔭 I'm currently working on
 
@@ -100,7 +101,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:komalkolambe86@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/
