@@ -68,9 +68,10 @@ in test coverage</b>
 ## 💻 Framework WalkThrough
 [![Test Automation Framework Video](https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
 
+<!--
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komalKolambe&repo=AutomationFramework)](https://github.com/komalKolambe/AutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komalKolambe&repo=AutomationFramework)](https://github.com/komalKolambe/AutomationFramework) -->
 
 [Automated Regression Testing Framework Java](https://github.com/komalKolambe/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
@@ -101,7 +102,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:komalkolambe86@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:komalkolambe86@gmail.com">komalkolambe86@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/
