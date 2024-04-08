@@ -69,9 +69,9 @@ in test coverage</b> -->
 ## 💻 Framework WalkThrough
 [![Test Automation Framework Video](https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw) -->
 
-<!--
-## 💻 My Projects 
 
+## 💻 My Projects 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komalKolambe&repo=AutomationFramework)](https://github.com/komalKolambe/AutomationFramework) -->
 
 [Automated Regression Testing Framework Java](https://github.com/komalKolambe/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
