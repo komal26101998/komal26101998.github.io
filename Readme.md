@@ -52,21 +52,22 @@
 
 ## 🥇 Achievements
 
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
+-Successfully implemented numerous change requests for the NCDEX system.
+<!--<b>20% improvement in overall software stability and performance</b> -->
 
--Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a  <b>40% decrease in test execution time and a 25% increase in test
-coverage </b>
+-Deployed changes to production environment without disruptions.  
+<!--<b>50% decrease in test execution time and a 25% increase in test
+coverage </b> -->
 
--Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
-in test coverage</b>
+-Provided efficient production support for NCDEX operations.
+<!--<b> 40% reduction in manual testing time and a 25% increase
+in test coverage</b> -->
 
+-Completed thorough manual testing to ensure system quality.
 
+<!--
 ## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+[![Test Automation Framework Video](https://raw.githubusercontent.com/komalKolambe/komalKolambe.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw) -->
 
 <!--
 ## 💻 My Projects 
